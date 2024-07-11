@@ -3,7 +3,7 @@ import subprocess
 from datetime import datetime, timedelta
 
 start_date = datetime(2023, 7, 25)
-end_date = datetime(2023, 7, 25)
+end_date = datetime(2024, 7, 25)
 repo_path = '/path/to/your/repo'
 commit_message = 'Automated commit'
 file_to_modify = 'README.md'
