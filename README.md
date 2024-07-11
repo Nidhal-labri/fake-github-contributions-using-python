@@ -2,6 +2,9 @@
 
 Ever wanted to have fun and impress your friends with a sky-high GitHub commit history? 🏆 Look no further! This Python script randomly generates fake contributions, making you look like a coding wizard with just a few lines of code. Perfect for those days when you're scrolling through TikTok but still want to seem productive. Create your very own commit carnival and watch those green squares pile up! 🎢
 
+![image](https://github.com/Nidhal-labri/fake-github-contributions-using-python/assets/108191553/70bc593d-077d-45eb-9f54-c9c8344f1595)
+
+
 ### Prerequisites
 
 Make sure Python is installed on your machine.
