@@ -10,11 +10,16 @@ Clone this repository and navigate into it:
 
 ### Usage
 
+Make sure to replace `YOUR-USERNAME` and `YOUR-REPO` with your actual GitHub username and repository name:
+
 ```bash
 git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
 cd YOUR-REPO
 ```
-Make sure to replace `YOUR-USERNAME` and `YOUR-REPO` with your actual GitHub username and repository name.
+
+
+Adjust the start_date, end_date, and repo_path variables in the Python script according to your needs. Then run the script:
+
 
 ```bash
 import os
@@ -43,7 +48,6 @@ while current_date <= end_date:
 
 subprocess.run(['git', 'push'])
 ```
-Adjust the start_date, end_date, and repo_path variables in the Python script according to your needs. Then run the script:
 
 
 
