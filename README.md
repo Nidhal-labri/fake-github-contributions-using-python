@@ -10,7 +10,7 @@ Clone this repository and navigate into it:
 
 ### Usage
 
-Make sure to replace `YOUR-USERNAME` and `YOUR-REPO` with your actual GitHub username and repository name:
+Make sure to replace `YOUR-USERNAME` and `YOUR-REPO` with your actual GitHub username and repository name, the copy past in your CMD:
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
@@ -18,10 +18,11 @@ cd YOUR-REPO
 ```
 
 
-Adjust the start_date, end_date, and repo_path variables in the Python script according to your needs. Then run the script:
+Adjust the start_date, end_date, and repo_path variables in the Python script according to your needs. the copy past in your CMD:
 
 
 ```bash
+python
 import os
 import subprocess
 from datetime import datetime, timedelta
